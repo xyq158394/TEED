@@ -1,2 +1,2 @@
 # TEED
-Make the Parallel wold come true 
+Make the Parallel-wold come true 
